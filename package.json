@@ -1,0 +1,24 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uzias1/chatnode.git"
+  },
+  "author": "Uzias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uzias1/chatnode/issues"
+  },
+  "homepage": "https://github.com/Uzias1/chatnode#readme"
+}

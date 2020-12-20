@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Uzias1/chatnode/issues"
   },
+  "engines": {
+    "node": "14.x"
+  },
   "homepage": "https://github.com/Uzias1/chatnode#readme"
 }
